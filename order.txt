@@ -1,0 +1,6 @@
+O1|U1|0102342123|234 Victoria St, London, England|PREPARING|R23412|I1:2|I2:1
+O2|U2|0192832421|123 Main St, City, Country|DELIVERED|R23123|I2:1|I3:2
+O3|U1|0192832421|123 Main St, City, Country|SHIPPED|R67890|I1:1
+O4|U13|0125637899|8, Jalan Huat, Taman Heng, 25860 HengOngHuat, Kuala Lumpur|PREPARING|123123|I6:2
+O5|U13|0147885236|8, Jalan Bagus, Taman Baik, 57880 Syabas, Penang|PENDING|-|I5:2
+O6|U13|0158749662|56, Lorong 7, Taman Lapan, 14200 Sembilan, Sarawak|PENDING|-|I4:1|I5:2
